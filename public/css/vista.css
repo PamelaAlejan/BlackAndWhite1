@@ -1,0 +1,17 @@
+form {
+    width: 20%;
+    margin: 0 auto;
+}
+
+button[type="submit"] {
+    background-color: rgb(0, 255, 208);
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+
+}
